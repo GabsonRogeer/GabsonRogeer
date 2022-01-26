@@ -33,4 +33,4 @@ const Gabs = {
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabsonrogeer/)
   
 [![Gabson GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsonrogeer&show_icons=true&theme=onedark)]
-[![Gabson Most Used Languages][(https://github-readme-stats.vercel.app/api/top-langs/?username=gabsonrogeer&langs_count=8&theme=onedark)]
+[![Gabson Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsonrogeer&langs_count=8&theme=onedark)]
