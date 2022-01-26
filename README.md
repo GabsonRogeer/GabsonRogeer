@@ -32,4 +32,4 @@ const Gabs = {
 [![Twitter: gabsonrogeer](https://img.shields.io/twitter/follow/gabsonrogeer?style=social)](https://twitter.com/GabsonRogeer)
 
   
-[![Gabson GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsonrogeer)](https://github.com/gabsonrogeer/github-readme-stats)
+[![Gabson GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsonrogeer&show_icons=true&theme=onedark)](https://github.com/gabsonrogeer/github-readme-stats)
