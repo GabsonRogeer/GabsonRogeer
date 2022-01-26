@@ -2,17 +2,21 @@
 
 <div align="center">
 
+	
 I'm a programming student
   
+	
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+	
+	
 
 <details>
   <summary> More about me</summary>
 <div align="left">
  
 ``` js
-const Gabs = {
+const Gabson = {
     personal: {
         fullName: 'Gabson Portela',
         birthDate: '1995-06-10',
@@ -25,6 +29,8 @@ const Gabs = {
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['Bootstrap'],
             },
+	backEnd: {
+		Java: ['POO' 'Collections']
     }
 }
 ```
