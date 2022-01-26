@@ -34,4 +34,4 @@ const Gabs = {
 
   
 [![Gabson GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsonrogeer&show_icons=true&theme=onedark)](https://github.com/gabsonrogeer/github-readme-stats)
-[![Gabson Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsonrogeer&layout=compact)]
+[![Gabson Most Used Languages(https://github-readme-stats.vercel.app/api/top-langs/?username=gabsonrogeer&layout=compact)
