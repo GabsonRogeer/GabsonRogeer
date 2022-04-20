@@ -32,10 +32,11 @@ const Gabson = {
                 CSS: ['Bootstrap'],
             },
 	backEnd: {
-		Java: ['POO' 'Collections' 'lambda expressions']
+		Java: ['POO' 'Collections' 'Spring']
     }
 	test: {
 		JUnit:['TDD' 'Manual Test']
+		API test:['Postmman']
 	}
 }
 ```
