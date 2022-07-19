@@ -50,7 +50,6 @@ const Gabson = {
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabson-portela-6785b5176/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabsonrogeer/)
 [<img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/kak00/)
-	
   
 ![Gabson GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsonrogeer&show_icons=true&theme=onedark)
 ![Gabson Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsonrogeer&layout=compact&langs_count=8&theme=onedark)
