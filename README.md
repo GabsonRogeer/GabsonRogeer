@@ -18,7 +18,7 @@ I'm a programming student
   <summary> More about me</summary>
 <div align="left">
  
-``` js
+``` java
 const Gabson = {
     personal: {
         fullName: 'Gabson Portela',
@@ -33,7 +33,8 @@ const Gabson = {
                 CSS: ['Bootstrap'],
             },
 	backEnd: {
-		Java: ['POO' 'Collections' 'Spring']
+		Java: ['POO' 'Collections' 'Design Pattern']
+		Spring Framework: ['Boot' 'Data' 'Web'] 
     }
 	test: {
 		JUnit:['TDD' 'Manual Test']
@@ -47,7 +48,6 @@ const Gabson = {
 
   
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gabsonrsp.dev@gmail.com)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/GabsonRogeer)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabson-portela/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabsonrogeer/)
 [<img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/kak00/)
